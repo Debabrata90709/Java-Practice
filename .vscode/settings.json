@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "Method_overriding",
-        "abstract_class"
+        "Final",
+        "Pattern"
     ]
 }

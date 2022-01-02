@@ -2,7 +2,12 @@ class Geekyshows
 {
     public static void main(String args[])
     {
-
+        Father f = new Father();
+        Son s = new Son();
+        Daughter d = new Daughter();
+        f.cal();
+        s.cal();
+        d.cal();
     }
 }
 
@@ -31,8 +36,8 @@ class Daughter extends Father       //sub class Daughter
     int c = 20;
     void cal()      //Method Overriding
     {
-        int sum = a + b + c;
+        int mult = a*c;
         System.out.println("Sub Class Daughter");
-        System.out.println("Addition = "+sum);
+        System.out.println("Multiplication = "+mult);
     }
 }

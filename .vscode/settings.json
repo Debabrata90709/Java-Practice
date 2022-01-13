@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Questions_Practice/String",
         "Questions_Practice/Number",
         "Questions_Practice/Factor_Program",
         "Pattern",
         "Final",
-        "Questions_Practice/String"
+        "Questions_Practice/Array/Array01"
     ]
 }

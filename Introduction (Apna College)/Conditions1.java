@@ -7,7 +7,7 @@ public class Conditions1 {
 
         if (button == 1) {
             System.out.println("Hello");
-        } else if (button == 3) {
+        } else if (button == 2) {
             System.out.println("Namaste");
         } else if (button == 3) {
             System.out.println("Bonjour");

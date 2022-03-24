@@ -5,8 +5,13 @@ public class Loops {
         // for (int counter = 0; counter < 100; counter = counter + 1) {
         // System.out.println("Hello World");
         // }
-        for (int i = 0; i < 11; i++) {
+        // for (int i = 0; i < 11; i++) {
+        // System.out.println(i);
+
+        int i = 0;
+        do {
             System.out.println(i);
-        }
+            i = i + 1;
+        } while (i < 11);
     }
 }

@@ -26,7 +26,7 @@ class Repeating {
 
 }
 
-public class FirstRepeating {
+public class FirstRepeating019 {
 
     public static void main(String[] args) {
 

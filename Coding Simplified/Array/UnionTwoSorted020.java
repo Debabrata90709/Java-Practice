@@ -52,7 +52,7 @@ class TwoSorted {
     }
 }
 
-public class UnionTwoSorted {
+public class UnionTwoSorted020 {
 
     public static void main(String[] args) {
 

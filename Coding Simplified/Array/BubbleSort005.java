@@ -1,7 +1,5 @@
 //Bubble Sort of an Array
 
-package Array;
-
 public class BubbleSort005 {
 
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package Array;
 
 public class LargestContiguousSumSubarray2 {
     public static void main(String[] args) {

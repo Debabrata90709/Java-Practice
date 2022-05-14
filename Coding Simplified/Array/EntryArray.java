@@ -1,4 +1,3 @@
-package Array;
 
 import java.util.*;
 
@@ -22,6 +21,7 @@ class Entry {
             Array1[i] = sc.nextInt();
         }
         return Array1;
+
     }
 
     public void print(int Array1[]) {

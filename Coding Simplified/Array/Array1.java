@@ -1,4 +1,4 @@
-package Array;
+
 //Delete an element from Array | from end | from given position
 
 public class Array1 {

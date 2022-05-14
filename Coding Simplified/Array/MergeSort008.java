@@ -1,6 +1,3 @@
-package Array;
-
-import java.util.*;
 
 public class MergeSort008 {
 

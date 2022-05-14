@@ -1,4 +1,3 @@
-package Array;
 
 class LargestContiguousSumSubarray1 {
 

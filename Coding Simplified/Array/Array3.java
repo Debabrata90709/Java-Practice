@@ -1,4 +1,4 @@
-package Array;
+
 // Search a value in Array
 
 public class Array3 {
